@@ -1,0 +1,1 @@
+{ 'name': 'orchestrate_task', 'parameters': { 'type': 'object', 'properties': {'task': {'type': 'string'}} } }\n

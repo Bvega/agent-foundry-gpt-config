@@ -1,1 +1,2 @@
-# agent-foundry-gpt-config
+# Agent Foundry – GPT Config
+Custom GPT instructions and schema.
